@@ -1,4 +1,4 @@
-# 🛠 C++ Toolbelt
+# 👷 C++ Toolbelt
 List of modern C++ libraries that I use frequently. Preferebly header-only of course.
 
 ## CLI
