@@ -1,6 +1,10 @@
 # 👷 C++ Toolbelt
 List of modern C++ libraries that I use frequently. Preferebly header-only of course.
 
+## C++ Language
+
+* https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/README.md
+
 ## CLI
 
 * https://github.com/sailormoon/flags
