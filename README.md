@@ -25,6 +25,7 @@ List of modern C++ libraries that I use frequently. Preferebly header-only of co
 * https://github.com/nlohmann/json
 * https://github.com/mongodb/mongo-cxx-driver/
 * https://github.com/Cylix/cpp_redis
+* https://github.com/ben-strasser/fast-cpp-csv-parser
 
 ## Multithreading
 
