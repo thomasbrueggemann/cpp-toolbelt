@@ -43,3 +43,4 @@ List of modern C++ libraries that I use frequently. Preferebly header-only of co
 
 * https://github.com/thomasbrueggemann/elapsed
 * https://github.com/thomasbrueggemann/cpp-slugify
+* https://github.com/fmtlib/fmt
